@@ -1,4 +1,4 @@
-# 🌟 Lakshya
+# 🌟 Lakshya (To-Do List)
 
 Lakshya is a **simple, browser-based to-do list web app** built using **HTML, CSS, and Vanilla JavaScript**.  
 It stores all tasks locally using the browser’s `localStorage`, so your list remains even after you refresh or close the tab.
