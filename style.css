@@ -53,8 +53,17 @@ body {
 }
 
 .todo-app h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
+}
 
+/* Add this for your name or subtitle */
+.todo-app h2 {
+    font-size: 1.5rem;
+    text-align: right;     
+    width: 100%;           
+    margin-top: -30px;     
+    font-weight: normal;   
+    color: #fff;
 }
 
 /* -------- Stats & progress ---------- */
@@ -75,7 +84,8 @@ body {
 
 .details h3 {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.8rem;
+    text-align: center;
 }
 
 #progressbar {
